@@ -1,2 +1,2 @@
-# first_capstone_project_group6
+# GROUP 6 CAPSTONE PROJECT
 Side hustle capstone project
